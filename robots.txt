@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uwomaowa.github.io/HKI/sitemap_index.txt
+Sitemap: https://uwomaowa.github.io/IFU/sitemap_index.txt
+Sitemap: https://uwomaowa.github.io/ZYB/sitemap_index.txt
+Sitemap: https://uwomaowa.github.io/snW/sitemap_index.txt
